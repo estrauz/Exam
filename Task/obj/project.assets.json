@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\strau\\OneDrive\\Документы\\GeekBrains\\Final exam\\Task\\Final exam.csproj",
+      "projectUniqueName": "C:\\Users\\strau\\OneDrive\\Документы\\GeekBrains\\Exam\\Task\\Final exam.csproj",
       "projectName": "Final exam",
-      "projectPath": "C:\\Users\\strau\\OneDrive\\Документы\\GeekBrains\\Final exam\\Task\\Final exam.csproj",
+      "projectPath": "C:\\Users\\strau\\OneDrive\\Документы\\GeekBrains\\Exam\\Task\\Final exam.csproj",
       "packagesPath": "C:\\Users\\strau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\strau\\OneDrive\\Документы\\GeekBrains\\Final exam\\Task\\obj\\",
+      "outputPath": "C:\\Users\\strau\\OneDrive\\Документы\\GeekBrains\\Exam\\Task\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\strau\\AppData\\Roaming\\NuGet\\NuGet.Config"

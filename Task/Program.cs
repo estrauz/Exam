@@ -28,7 +28,7 @@ void EdithedArray(string[] array1, string[] array2)
     {
         Console.Write($"{array1[j]} ");
 
-        if (array1[j].Length < 3)
+        if (array1[j].Length <= 3)
         {
             array2[count] = array1[j];
             count++;
